@@ -1,8 +1,8 @@
 # Project8-ItemsDatabaseGenerator
 
-## This script requires python 3 to run, that is all.
+**This script requires python 3 to run, that is all.**
 
-## without modification, the script will generate:
+#### without modification, the script will generate:
 - file "pyGenItemsData.txt"
 - 100 items in item database
 - max price of items at 500
